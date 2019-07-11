@@ -1,0 +1,10 @@
+# Environments
+myvenv
+
+#Python
+settings.py
+
+# Idea
+.idea/
+
+.pyc
