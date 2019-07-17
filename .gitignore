@@ -2,7 +2,7 @@
 myvenv
 
 #Python
-settings.py
+local_settings.py
 
 # Idea
 .idea/
